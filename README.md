@@ -151,6 +151,4 @@ Socket.io is used for collaborative updates.
 - Password reset and AI behavior are designed to work even when optional external services are not configured.
 - The backend currently ships without automated tests.
 
-## License
 
-This project is currently licensed under `ISC` in the backend package.
